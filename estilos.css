@@ -1,0 +1,24 @@
+.body  {
+    background: linear-gradient(to right,rgb(153, 250, 196));
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #dafddb; 
+}
+
+h1{
+    font-family: 'Arial', Helvetica;
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+}
+
+footer {
+    padding: 15px;
+    border-top: 2px solid #333; 
+    background-color: #333;
+    color: #ffffff;
+}
